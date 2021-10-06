@@ -256,6 +256,12 @@ video {
   .btn {
     width: 100%;
   }
+  .f-img_01 {
+    max-width: 250px;
+  }
+  .f-img_02{
+    max-width: 205px;
+  }
 }
 /* Pieces */
 .the-pieces {
@@ -329,21 +335,6 @@ video {
   transform: scale(1.1);
 }
 
-@media screen and (max-width: 768px) {
-  .item-image {
-    width:  300px;
-    margin-bottom: 15%;
-  }
-  .main-showcase{
-    margin: -20px 0;
-  }
-}
-
-@media only screen and (min-width: 1024px) {
-  .showcase-column {
-    display: flex;
-  }
-}
 
 /*Story*/
 .the-project{
@@ -430,5 +421,28 @@ h2 {
   }
   .deloused-cover {
     display: none !important;
+  }
+  .item-image {
+    width:  300px;
+    margin-bottom: 15%;
+  }
+  .main-showcase{
+    margin: -20px 0;
+  }
+  .the-pieces {
+    padding: 10rem 0 0rem 0;
+  }
+  .the-project {
+    padding: 10rem 0 0rem 0; 
+  }
+  .the-story {
+    padding: 0rem 0;
+  }
+}
+
+
+@media only screen and (min-width: 1024px) {
+  .showcase-column {
+    display: flex;
   }
 }

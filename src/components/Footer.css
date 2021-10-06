@@ -16,6 +16,10 @@
 
 .footer-link-wrapper {
   display: flex;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 350px;
 }
 
 .footer-link-items {
@@ -23,7 +27,7 @@
   flex-direction: column;
   align-items: flex-start;
   margin: 16px;
-  text-align: left;
+  text-align: center;
   width: 160px;
   box-sizing: border-box;
 }

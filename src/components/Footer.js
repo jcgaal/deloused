@@ -9,26 +9,14 @@ function Footer() {
 		<div className='footer-container'>
 			<div class='footer-links'>
         <div className='footer-link-wrapper'>
-          <div class='footer-link-items'>
-            <Link to='/'>Home</Link>
-          </div>
-          <div class='footer-link-items'>
-            <a href='https://opensea.io/deloused' target="_blank">
-              OpenSea
-            </a>
-          </div>
-        </div>
-        <div className='footer-link-wrapper'>
-          <div class='footer-link-items'>
-            <a href='https://www.etsy.com/shop/JJCLV' target="_blank">
-              <i class="fa fa-etsy" aria-hidden="true"></i>tsy
-            </a>
-          </div>
-        </div>
-        <div className='footer-link-wrapper'>
-          <div class='footer-link-items'>
-            <Link to='/pieces'>the pieces</Link>
-          </div>
+          <Link to='/'>Home</Link>
+          <a href='https://opensea.io/deloused' target="_blank">
+            OpenSea
+          </a>
+          <a href='https://www.etsy.com/shop/JJCLV' target="_blank">
+            <i class="fa fa-etsy" aria-hidden="true"></i>tsy
+          </a>
+          <Link to='/pieces'>the pieces</Link>
         </div>
       </div>
 

@@ -56,3 +56,9 @@
   transition: all 0.3s ease-out;
   transition: 250ms;
 }
+@media screen and (max-width: 768px) {
+  .hero-btns > a {
+    display: block;
+    margin-bottom: 25px;
+  }
+}

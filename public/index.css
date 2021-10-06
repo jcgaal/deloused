@@ -16,6 +16,7 @@
     font-display: swap;
 }
 
+
 h1,
 h2,
 h3,
@@ -27,8 +28,8 @@ h6 {
 
 h2 {
     font-size: 3em;
-    line-height: 3em;
-}
+/*    line-height: 3em;
+*/}
 
 p {
     font-family:  'Walsheim', Arial, Helvetica, sans-serif;   
@@ -44,4 +45,10 @@ a:hover {
 }
 .text-center{
     text-align: center;
+}
+
+@media screen and (max-width: 768px) {
+  #root{
+    overflow-x: hidden;
+  }
 }
