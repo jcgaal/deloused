@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'Miller';
+    src: local('MyFont'), url('fonts/Miller-TextRoman.woff2') format('woff2'),
+        url('fonts/Miller-TextRoman.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Walsheim';
+    src: local('MyFont'), url('fonts/GTWalsheimPro-Regular.woff2') format('woff2'),
+        url('GTWalsheimPro-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family:  'Miller', times-new-roman, serif;
+}
+
+h2 {
+    font-size: 3em;
+    line-height: 3em;
+}
+
+p {
+    font-family:  'Walsheim', Arial, Helvetica, sans-serif;   
+}
+
+a {
+    color: #ef394d;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+.text-center{
+    text-align: center;
+}
