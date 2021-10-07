@@ -1,59 +1,59 @@
 import React from 'react';
 import './Footer.css';
-import { Button } from './Button';
+// import { Button } from './Button';
 import { Link } from 'react-router-dom';
 
 
 function Footer() {
 	return (
 		<div className='footer-container'>
-			<div class='footer-links'>
+			<div className='footer-links'>
         <div className='footer-link-wrapper'>
           <Link to='/'>Home</Link>
-          <a href='https://opensea.io/deloused' target="_blank">
+          <a href='https://opensea.io/deloused' target="_blank" rel="noreferrer">
             OpenSea
           </a>
-          <a href='https://www.etsy.com/shop/JJCLV' target="_blank">
-            <i class="fa fa-etsy" aria-hidden="true"></i>tsy
+          <a href='https://www.etsy.com/shop/JJCLV' target="_blank" rel="noreferrer">
+            <i className="fa fa-etsy" aria-hidden="true"></i>tsy
           </a>
-          <Link to='/pieces'>the pieces</Link>
+          <Link to='/the-gallery'>the pieces</Link>
         </div>
       </div>
 
-      <section class='social-media'>
-        <div class='social-media-wrap'>
-          <div class='footer-logo'>
+      <section className='social-media'>
+        <div className='social-media-wrap'>
+          <div className='footer-logo'>
             <Link to='/' className='social-logo'>
               deloused 👁️
             </Link>
           </div>
-          <small class='website-rights'>
-            <a href="http://nfnto.xyz" target="_blank">nfnto</a> 2021 - ∞
+          <small className='website-rights'>
+            <a href="http://nfnto.xyz" target="_blank" rel="noreferrer">nfnto</a> 2021 - ∞
           </small>
-          <div class='social-icons'>
+          <div className='social-icons'>
             <Link
-              class='social-icon-link instagram'
+              className='social-icon-link instagram'
               to='/'
               target='_blank'
               aria-label='Instagram'
             >
-              <i class='fab fa-instagram' />
+              <i className='fab fa-instagram' />
             </Link>
             <Link
-              class='social-icon-link youtube'
+              className='social-icon-link youtube'
               to='/'
               target='_blank'
               aria-label='Youtube'
             >
-              <i class='fab fa-youtube' />
+              <i className='fab fa-youtube' />
             </Link>
             <Link
-              class='social-icon-link twitter'
+              className='social-icon-link twitter'
               to='/'
               target='_blank'
               aria-label='Twitter'
             >
-              <i class='fab fa-twitter' />
+              <i className='fab fa-twitter' />
             </Link>
           </div>
         </div>

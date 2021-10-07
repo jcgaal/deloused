@@ -339,7 +339,7 @@ video {
 /*Story*/
 .the-project{
   padding: 10rem 0;
-  background: url('./img/the-project.jpg') center center/cover no-repeat;;
+  background: url('./img/the-project.jpg') center center/cover no-repeat;
   display: block;
   position: relative;
   top: 0;

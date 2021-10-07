@@ -1,9 +1,9 @@
 import React from 'react';
 import Navbar from './components/Navbar';
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Switch, Route, Link, useRouteMatch, useParams} from 'react-router-dom';
 import './App.css';
 import Home from './components/pages/Home';
-import Pieces from './components/pages/Pieces';
+import TheGallery from './components/pages/TheGallery';
 
 function App() {
   return (
@@ -12,7 +12,8 @@ function App() {
         <Navbar />
         <Switch>
           <Route path='/' exact component={Home} />
-          <Route path='/pieces' exact component={Pieces} />
+          <Route path='/the-gallery' exact component={TheGallery} />
+
         </Switch>
       </Router>
     </>

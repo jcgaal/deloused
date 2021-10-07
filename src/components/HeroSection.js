@@ -1,6 +1,6 @@
 import React from 'react';
 import '../App.css';
-import { Button } from './Button';
+// import { Button } from './Button';
 import './HeroSection.css';
 import { ReactComponent as DelousedLogo } from './img/logo-vector.svg';
 
@@ -16,10 +16,10 @@ function HeroSection() {
 			<p>their favorite album</p>
 			<p>20 pieces in total</p>
 			<div className='hero-btns'>
-				<a href='/pieces' target='blank' className="btns btn--primary btn--large">
+				<a href='/the-gallery' target='blank' rel="noreferrer" className="btns btn--primary btn--large">
 					VISIT THE GALLERY <i className='far fa-play-circle' />
 				</a>
-				<a href='https://opensea.io/deloused' target='blank' className="btns btn--outline btn--large">
+				<a href='https://opensea.io/deloused' target='blank' rel="noreferrer" className="btns btn--outline btn--large">
 					VIEW ON OPENSEA
 				</a>
 			</div>
@@ -36,7 +36,7 @@ function HeroSection() {
 		<div id='pieces' className='the-pieces'>
 			<h2>what are \the pieces\?</h2>
 			<div className='text-wrap'>
-				<p>The pieces are 2 sets of 10 different illustrations corresponding to each song of ^the album, creatd by <a href="https://www.instagram.com/jjclv/" target="_blank">JuanJo Calva</a> & <a href="https://twitter.com/jcgaal_" target="_blank">JC Gaal</a> respectively. There are a total of 20 pieces. The aim was to stay loyal to *the story, however subjectivity rules all beings, and thus will be reflected in the art. The same album listened during the same time period and imagined by two different artists.</p>
+				<p>The pieces are 2 sets of 10 different illustrations corresponding to each song of ^the album, creatd by <a href="https://www.instagram.com/jjclv/" target="_blank" rel="noreferrer">JuanJo Calva</a> & <a href="https://twitter.com/jcgaal_" target="_blank" rel="noreferrer">JC Gaal</a> respectively. There are a total of 20 pieces. The aim was to stay loyal to *the story, however subjectivity rules all beings, and thus will be reflected in the art. The same album listened during the same time period and imagined by two different artists.</p>
 			</div>
 			<div className="showcase-container">
 				<div className="main-showcase">
@@ -58,10 +58,10 @@ function HeroSection() {
 			</div>
 			<div className='text-wrap'>
 				<div className='hero-btns text-center'>
-					<a href='https://www.etsy.com/shop/JJCLV' target='blank' className="btns btn--primary btn--large">
-						visit our <i class="fa fa-etsy" aria-hidden="true"></i>tsy
+					<a href='https://www.etsy.com/shop/JJCLV' target='blank' rel="noreferrer" className="btns btn--primary btn--large">
+						visit our <i className="fa fa-etsy" aria-hidden="true"></i>tsy
 					</a>
-					<a href='/pieces' className="btns btn--outline btn--large">
+					<a href='/the-gallery' className="btns btn--outline btn--large">
 						view all the pieces
 					</a>
 				</div>
@@ -89,11 +89,11 @@ function HeroSection() {
 			<img className='deloused-cover' src='/images/de-loused-art.jpg' alt="De-Loused in the Comatorium" />
 			<div className='text-wrap'>
 				<div className='hero-btns text-center'>
-					<a href='/pieces' className="btns btn--outline btn--large">
+					<a href='/the-gallery' className="btns btn--outline btn--large">
 						visit the  gallery
 					</a>
-					<a href='https://www.etsy.com/shop/JJCLV' target='blank' className="btns btn--primary btn--large">
-						view on <i class="fa fa-etsy" aria-hidden="true"></i>tsy
+					<a href='https://www.etsy.com/shop/JJCLV' target='blank' rel="noreferrer" className="btns btn--primary btn--large">
+						view on <i className="fa fa-etsy" aria-hidden="true"></i>tsy
 					</a>
 				</div>
 			</div>

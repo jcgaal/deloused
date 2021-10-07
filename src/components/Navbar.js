@@ -38,17 +38,17 @@ function Navbar() {
 					</div>
 					<ul className={click ? 'nav-menu active' : 'nav-menu'}>
 						<li className='nav-item'>
-							<Link to='/pieces' className='nav-links' onClick={closeMobileMenu}>
-								the pieces
+							<Link to='/the-gallery' className='nav-links' onClick={closeMobileMenu}>
+								the gallery
 							</Link>
 						</li>
 						<li className='nav-item'>
-							<a href='https://www.etsy.com/shop/JJCLV' target="_blank" className='nav-links' onClick={closeMobileMenu}>
-								<i class="fa fa-etsy" aria-hidden="true"></i>tsy
+							<a href='https://www.etsy.com/shop/JJCLV' target="_blank" rel="noreferrer" className='nav-links' onClick={closeMobileMenu}>
+								<i className="fa fa-etsy" aria-hidden="true"></i>tsy
 							</a>
 						</li>
 						<li>
-              <a href="https://opensea.io/deloused" className='nav-links-mobile' target="_blank" onClick={closeMobileMenu}>OpenSea</a>
+              <a href="https://opensea.io/deloused" className='nav-links-mobile' target="_blank" rel="noreferrer" onClick={closeMobileMenu}>OpenSea</a>
             </li>
           </ul>
           {button && <Button buttonStyle='btn--outline'>OpenSea</Button>}

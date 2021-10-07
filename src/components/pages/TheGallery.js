@@ -3,7 +3,7 @@ import '../../App.css';
 import Gallery from '../Gallery';
 import Footer from '../Footer';
 
-function Pieces() {
+function TheGallery() {
 	return (
 		<>
 			<Gallery />
@@ -12,4 +12,4 @@ function Pieces() {
 	)
 }
 
-export default Pieces;
+export default TheGallery;
