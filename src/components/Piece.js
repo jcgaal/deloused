@@ -296,27 +296,42 @@ function Piece(props) {
             </div>
           </div>
         </div>
-        <div className='description__container'>
-          <div className='description__wrapper'>
-            <div className='description__items'>
-            
-              <div className='description__item'>
-                <h3>Bits of the story...</h3>
-                <p className='description__item__text'>{description}</p>
-                
-              </div>
+        <div className="description">
+          <div className='description__container'>
+            <div className='description__wrapper'>
+              <div className='description__items'>
+              
+                <div className='description__item'>
+                  <ul className="row">
+                    <li>
+                      <h3 className="description__item__title">Bits of the story...</h3>
+                    </li>
+                    <li>
+                      <p className='description__item__text'>{description}</p>
+                    </li>  
+                  </ul>             
+                </div>
 
-              <div className='description__item'>
-                <p className="row">
-                  <a href="{etsylink}" target="_blank" rel="noreferrer" className="btns btn--primary btn--huge">Opensea</a>
-                </p>
-                <br></br>
-                <p className="row">
-                  <a href="{etsylink}" target="_blank" rel="noreferrer" className="btns btn--outline btn--huge">Etsy</a>
-                </p>
-                
-              </div>
+                <div className='description__item'>
+                  <ul className="row">
+                    <li>
+                      <a href="{etsylink}" target="_blank" rel="noreferrer" className="btns btn--primary btn--huge">Opensea</a>
+                    </li>
+                    <li>
+                      <a href="{etsylink}" target="_blank" rel="noreferrer" className="btns btn--primary btn--huge">Etsy</a>
+                    </li>
+                    <li>
+                      <a href="{tweet}" target="_blank" rel="noreferrer" className="btns btn--primary btn--huge">Tweet It</a>
+                    </li>
+                  </ul>
+                  <br></br>
+                  <p className="row">
+                    
+                  </p>
+                  
+                </div>
 
+              </div>
             </div>
           </div>
         </div>
