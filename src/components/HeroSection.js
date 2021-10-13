@@ -16,11 +16,11 @@ function HeroSection() {
 			<p>their favorite album</p>
 			<p>20 pieces in total</p>
 			<div className='hero-btns'>
-				<a href='/the-gallery' target='blank' rel="noreferrer" className="btns btn--primary btn--large">
-					VISIT THE GALLERY <i className='far fa-play-circle' />
-				</a>
 				<a href='https://opensea.io/deloused' target='blank' rel="noreferrer" className="btns btn--outline btn--large">
 					VIEW ON OPENSEA
+				</a>
+				<a href='/the-gallery' target='blank' rel="noreferrer" className="btns btn--primary btn--large">
+					VISIT THE GALLERY <i className='far fa-play-circle' />
 				</a>
 			</div>
 			<div className='featured-images'>

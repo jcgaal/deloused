@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+# deloused :eye:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project consists of 10 songs uniquely illustrated by @jcgaal & @jjclv, while decoding their favorite album 20 pieces in total. 
 
-## Available Scripts
+In 2003, the debut album by our favorite band dropped
 
-In the project directory, you can run:
+This album shares the tale of a trouble poet who through an injection of rat poison attempted to leave this world, only to be woken up in another realm much diferent from this reality: The Comatorium.
 
-### `npm start`
+This new paradigm presents itself to the protagonist as a series of complex and epic challenges that demand prowess beyond his human form and limitations making him transcend his own anthropoid form.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+With profound allegorical descriptions and a masterful use of sophisticated rhetorical devices, the authors of the story leave to the listeners the task of filling in the gaps and helping construct the narrative based with their very own interpretation informed by their experience in life.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+and that is what we did...
 
-### `npm test`
+### `the gallery`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Visit the gallery at [deloused.xyz](http://www.deloused.xyz/)
 
-### `npm run build`
+Get a NFT at [opensea](https://opensea.io/deloused)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Or Get a poster on our [etsy](https://www.etsy.com/shop/JJCLV)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### `social`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Surprises might pop up on side networks:
 
-### `npm run eject`
+[instagram](https://www.instagram.com/delousedxyz/)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+[twitter](https://twitter.com/delousedxyz)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+:eye:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+     ....                           ..                               .x+=:.                 ..       
+ .xH888888Hx.                 x .d88"                               z`    ^%              dF         
+.H8888888888888:                5888R          u.      x.    .          .   <k            '88bu.      
+888*"""?""*88888X        .u     '888R    ...ue888b   .@88k  z88u      .@8Ned8"      .u    '*88888bu   
+'f     d8x.   ^%88k    ud8888.    888R    888R Y888r ~"8888 ^8888    .@^%8888"    ud8888.    ^"*8888N  
+'>    <88888X   '?8  :888'8888.   888R    888R I888>   8888  888R   x88:  `)8b. :888'8888.  beWE "888L 
+`:..:`888888>    8> d888 '88%"   888R    888R I888>   8888  888R   8888N=*8888 d888 '88%"  888E  888E 
+      `"*88     X  8888.+"      888R    888R I888>   8888  888R    %8"    R88 8888.+"     888E  888E 
+ .xHHhx.."      !  8888L        888R   u8888cJ888    8888 ,888B .   @8Wou 9%  8888L       888E  888F 
+X88888888hx. ..!   '8888c. .+  .888B .  "*888*P"    "8888Y 8888"  .888888P`   '8888c. .+ .888N..888  
+!   "*888888888"     "88888%    ^*888%     'Y"        `Y"   'YP    `   ^"F      "88888%    `"888*""   
+      ^"***"`         "YP'       "%                                              "YP'        ""      
+                                                                                                     
+                                                                                                     
+           
