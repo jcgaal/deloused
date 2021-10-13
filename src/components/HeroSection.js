@@ -19,7 +19,7 @@ function HeroSection() {
 				<a href='https://opensea.io/deloused' target='blank' rel="noreferrer" className="btns btn--outline btn--large">
 					VIEW ON OPENSEA
 				</a>
-				<a href='/the-gallery' target='blank' rel="noreferrer" className="btns btn--primary btn--large">
+				<a href='/the-gallery'  className="btns btn--primary btn--large">
 					VISIT THE GALLERY <i className='far fa-play-circle' />
 				</a>
 			</div>

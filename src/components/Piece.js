@@ -6,6 +6,8 @@ import './Piece.css';
 
 
 function Piece(props) {
+
+
   const {urlid}: {urlid: string} = useParams();
 
     let id
@@ -315,12 +317,19 @@ function Piece(props) {
                 <div className='description__item'>
                   <ul className="row">
                     <li>
-                      <a href="{etsylink}" target="_blank" rel="noreferrer" className="btns btn--primary btn--huge">Opensea</a>
+                      <h3 className="description__item__title text-center">Own a piece of this project</h3>
                     </li>
-                    <li>
+                    <li className="button-section">
+                      <p className="description__item__text text-center">Grab a poster</p>
                       <a href="{etsylink}" target="_blank" rel="noreferrer" className="btns btn--primary btn--huge">Etsy</a>
                     </li>
-                    <li>
+                    <li className="button-section">
+                      <p className="description__item__text text-center">Get one of the 20 NFTs</p>
+                      <a href="{opensealink}" target="_blank" rel="noreferrer" className="btns btn--primary btn--huge">Opensea</a>
+                      <p className="description__item__subtext text-center">First owner gets a signed poster & unlockable exclusive content</p>
+                    </li>
+                    <li className="button-section">
+                      <p className="description__item__text text-center">Spread the Word</p>
                       <a href="{tweet}" target="_blank" rel="noreferrer" className="btns btn--primary btn--huge">Tweet It</a>
                     </li>
                   </ul>

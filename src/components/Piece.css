@@ -168,6 +168,15 @@ h2{
   color: #fff;
   font-size: 1.1em;
   line-height: 1.5em;
+  max-height: 285px;
+  overflow-x: scroll;
+}
+.description__item__subtext {
+  font-family: 'Walsheim', Arial, Helvetica, sans-serif;
+  color: #fff;
+  font-size: .9em;
+  line-height: 1em;
+  margin-top: 5px;
 }
 
 .row {
@@ -181,12 +190,18 @@ h2{
 .row > li {
   padding: 2% 0;
 }
+.row > .button-section {
+  border-bottom: 1px solid rgba(255,255,255,0.2);
+}
 
 .btn--huge {
   padding: 12px 26px;
   font-size: 20px;
   width: 100%;
   display: block;
+  text-align: center;
+}
+.text-center {
   text-align: center;
 }
 
@@ -222,6 +237,9 @@ h2{
   }
   .description__wrapper {
     width: 100%;
+  }
+  .description__item{
+    margin-bottom: 5%;
   }
   .__item {
     margin-bottom: 2rem;
