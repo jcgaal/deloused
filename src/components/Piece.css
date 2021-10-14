@@ -168,8 +168,6 @@ h2{
   color: #fff;
   font-size: 1.1em;
   line-height: 1.5em;
-  max-height: 285px;
-  overflow-x: scroll;
 }
 .description__item__subtext {
   font-family: 'Walsheim', Arial, Helvetica, sans-serif;
