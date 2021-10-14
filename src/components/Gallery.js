@@ -15,7 +15,7 @@ function Gallery() {
       <DelousedLogo className='main-logo'/>
       <div className='cards__container'>
         <div className='cards__wrapper'>
-          <h2>by JuanJo Calva</h2>
+          <h2 className='cards__creator'> by JuanJo Calva</h2>
           <br/>
           <ul className='cards__items'>
             <GalleryItem
@@ -44,34 +44,37 @@ function Gallery() {
               label='JuanJo Calva'
               path='/the-gallery/juanjo-tira-me-a-las-aranas'
             />
+          </ul>
+          <ul className='cards__items'>
             <GalleryItem
               src='images/jjclv/lo-res/05-Drunkship.jpg'
               text='Drunkship of Lanterns'
               label='JuanJo Calva'
               path='/the-gallery/juanjo-drunkship-of-lanterns'
             />
-          </ul>
-          <ul className='cards__items'>
             <GalleryItem
               src='images/jjclv/lo-res/06-Eriatarka.jpg'
               text='Eriatarka'
               label='JuanJo Calva'
               path='/the-gallery/juanjo-eriatarka'
             />
+            
+          </ul>
+          <ul className='cards__items'>
             <GalleryItem
               src='images/jjclv/lo-res/07-Cicatriz.jpg'
               text='Cicatriz ESP'
               label='JuanJo Calva'
               path='/the-gallery/juanjo-cicatriz-esp'
             />
-          </ul>
-          <ul className='cards__items'>
             <GalleryItem
               src='images/jjclv/lo-res/08-ThisApparatus.jpg'
               text='This Apparatus Must Be Unearthed'
               label='JuanJo Calva'
               path='/the-gallery/juanjo-this-apparatus-must-be-unearthed'
             />
+          </ul>
+          <ul className='cards__items'>
             <GalleryItem
               src='images/jjclv/lo-res/09-Televators.jpg'
               text='Televators'
@@ -87,7 +90,7 @@ function Gallery() {
           </ul>
         </div>
         <div className='cards__wrapper'>
-          <h2>by JC Gaal</h2>
+          <h2 className='cards__creator'>by JC Gaal</h2>
           <br/>
           <ul className='cards__items'>
             <GalleryItem
@@ -116,34 +119,36 @@ function Gallery() {
               label='JC Gaal'
               path='/the-gallery/jcgaal-tira-me-a-las-aranas'
             />
+          </ul>
+          <ul className='cards__items'>
             <GalleryItem
               src='images/jcgaal/lo-res/05-Drunkship.jpg'
               text='Drunkship of Lanterns'
               label='JC Gaal'
               path='/the-gallery/jcgaal-drunkship-of-lanterns'
             />
-          </ul>
-          <ul className='cards__items'>
             <GalleryItem
               src='images/jcgaal/lo-res/06-Eriatarka.jpg'
               text='Eriatarka'
               label='JC Gaal'
               path='/the-gallery/jcgaal-eriatarka'
             />
+          </ul>
+          <ul className='cards__items'>
             <GalleryItem
               src='images/jcgaal/lo-res/07-Cicatriz.jpg'
               text='Cicatriz ESP'
               label='JC Gaal'
               path='/the-gallery/jcgaal-cicatriz-esp'
             />
-          </ul>
-          <ul className='cards__items'>
             <GalleryItem
               src='images/jcgaal/lo-res/08-ThisApparatus.jpg'
               text='This Apparatus Must Be Unearthed'
               label='JC Gaal'
               path='/the-gallery/jcgaal-this-apparatus-must-be-unearthed'
             />
+          </ul>
+          <ul className='cards__items'>
             <GalleryItem
               src='images/jcgaal/lo-res/09-Televators.jpg'
               text='Televators'

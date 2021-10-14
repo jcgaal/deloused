@@ -11,10 +11,6 @@
 h1 {
   text-align: center;
 }
-h2{
-  color :#fff;
-}
-
 .cards__container {
   display: flex;
   flex-flow: column;
@@ -27,11 +23,17 @@ h2{
 .cards__wrapper {
   position: relative;
   margin: 50px 0 45px;
-  width: 80%;
+  width: 95%;
 }
 
 .cards__items {
   margin-bottom: 24px;
+}
+
+.cards__creator{
+  line-height: 1.75rem;
+  color: #ef394d;
+  font-size: 1.8em;
 }
 
 .cards__item {
@@ -108,7 +110,7 @@ h2{
 
 .cards__item__text {
   font-family: 'Walsheim', Arial, Helvetica, sans-serif;
-  text-transform: lowercase;
+  /*text-transform: lowercase;*/
   color: #252e48;
   font-size: 14px;
   line-height: 22px;
