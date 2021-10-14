@@ -16,7 +16,7 @@ function HeroSection() {
 			<p>their favorite album</p>
 			<p>20 pieces in total</p>
 			<div className='hero-btns'>
-				<a href='https://opensea.io/deloused' target='blank' rel="noreferrer" className="btns btn--outline btn--large">
+				<a href='https://opensea.io/collection/deloused' target='blank' rel="noreferrer" className="btns btn--outline btn--large">
 					VIEW ON OPENSEA
 				</a>
 				<a href='/the-gallery'  className="btns btn--primary btn--large">
@@ -34,7 +34,7 @@ function HeroSection() {
 		</div>
 
 		<div id='pieces' className='the-pieces'>
-			<h2>what are \the pieces\?</h2>
+			<h2>what are the pieces?</h2>
 			<div className='text-wrap'>
 				<p>The pieces are 2 sets of 10 different illustrations corresponding to each song of ^the album, creatd by <a href="https://www.instagram.com/jjclv/" target="_blank" rel="noreferrer">JuanJo Calva</a> & <a href="https://twitter.com/jcgaal_" target="_blank" rel="noreferrer">JC Gaal</a> respectively. There are a total of 20 pieces. The aim was to stay loyal to *the story, however subjectivity rules all beings, and thus will be reflected in the art. The same album listened during the same time period and imagined by two different artists.</p>
 			</div>

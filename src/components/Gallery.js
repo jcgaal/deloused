@@ -142,13 +142,13 @@ function Gallery() {
               src='images/jcgaal/lo-res/08-ThisApparatus.jpg'
               text='This Apparatus Must Be Unearthed'
               label='JC Gaal'
-              path='/the-gallery/juanjo-this-apparatus-must-be-unearthed'
+              path='/the-gallery/jcgaal-this-apparatus-must-be-unearthed'
             />
             <GalleryItem
               src='images/jcgaal/lo-res/09-Televators.jpg'
               text='Televators'
               label='JC Gaal'
-              path='/the-gallery/juanjo-televators'
+              path='/the-gallery/jcgaal-televators'
             />
             <GalleryItem
               src='images/jcgaal/lo-res/10-TakeTheVeil.jpg'

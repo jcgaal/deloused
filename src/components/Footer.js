@@ -10,7 +10,7 @@ function Footer() {
 			<div className='footer-links'>
         <div className='footer-link-wrapper'>
           <Link to='/'>Home</Link>
-          <a href='https://opensea.io/deloused' target="_blank" rel="noreferrer">
+          <a href='https://opensea.io/collection/deloused' target="_blank" rel="noreferrer">
             OpenSea
           </a>
           <a href='https://www.etsy.com/shop/JJCLV' target="_blank" rel="noreferrer">
@@ -33,7 +33,7 @@ function Footer() {
           <div className='social-icons'>
             <Link
               className='social-icon-link instagram'
-              to='/'
+              to='https://www.instagram.com/delousedxyz/'
               target='_blank'
               aria-label='Instagram'
             >
@@ -41,7 +41,7 @@ function Footer() {
             </Link>
             <Link
               className='social-icon-link youtube'
-              to='/'
+              to='https://www.youtube.com/channel/UCrxRfPdf0eKIeSUOmfE3c-w'
               target='_blank'
               aria-label='Youtube'
             >
@@ -49,7 +49,7 @@ function Footer() {
             </Link>
             <Link
               className='social-icon-link twitter'
-              to='/'
+              to='https://twitter.com/delousedxyz'
               target='_blank'
               aria-label='Twitter'
             >

@@ -48,7 +48,7 @@ function Navbar() {
 							</a>
 						</li>
 						<li>
-              <a href="https://opensea.io/deloused" className='nav-links-mobile' target="_blank" rel="noreferrer" onClick={closeMobileMenu}>OpenSea</a>
+              <a href="https://opensea.io/collection/deloused" className='nav-links-mobile' target="_blank" rel="noreferrer" onClick={closeMobileMenu}>OpenSea</a>
             </li>
           </ul>
           {button && <Button buttonStyle='btn--outline'>OpenSea</Button>}
