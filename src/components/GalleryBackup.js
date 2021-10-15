@@ -15,14 +15,7 @@ function Gallery() {
       <DelousedLogo className='main-logo'/>
       <div className='cards__container'>
         <div className='cards__wrapper'>
-          <ul className='cards__items'>
-            <li className='item-image'>
-              <h2 className='cards__creator'> by JuanJo Calva</h2>
-            </li>
-            <li className='item-image'>
-              <h2 className='cards__creator'>by JC Gaal</h2>
-            </li>
-          </ul>
+          <h2 className='cards__creator'> by JuanJo Calva</h2>
           <br/>
           <ul className='cards__items'>
             <GalleryItem
@@ -32,24 +25,10 @@ function Gallery() {
               path='/the-gallery/juanjo-son-et-lumiere'
             />
             <GalleryItem
-              src='images/jcgaal/lo-res/01-Son.jpg'
-              text='Son et lumière'
-              label='JC Gaal'
-              path='/the-gallery/jcgaal-son-et-lumiere'
-            />
-          </ul>
-          <ul className='cards__items'>
-            <GalleryItem
               src='images/jjclv/lo-res/02-Inertiatic.jpg'
               text='Inertiatic ESP'
               label='JuanJo Calva'
               path='/the-gallery/juanjo-intertiatic-esp'
-            />
-            <GalleryItem
-              src='images/jcgaal/lo-res/02-Inertiatic.jpg'
-              text='Inertiatic ESP'
-              label='JC Gaal'
-              path='/the-gallery/jcgaal-intertiatic-esp'
             />
           </ul>
           <ul className='cards__items'>
@@ -60,24 +39,10 @@ function Gallery() {
               path='/the-gallery/juanjo-roulette-dares'
             />
             <GalleryItem
-              src='images/jcgaal/lo-res/03-Roulette.jpg'
-              text='Roulette Dares (The Haunt Of)'
-              label='JC Gaal'
-              path='/the-gallery/jcgaal-roulette-dares'
-            />
-          </ul>
-          <ul className='cards__items'>
-            <GalleryItem
               src='images/jjclv/lo-res/04-TiraMe.jpg'
               text='Tira me a las arañas'
               label='JuanJo Calva'
               path='/the-gallery/juanjo-tira-me-a-las-aranas'
-            />
-            <GalleryItem
-              src='images/jcgaal/lo-res/04-TiraMe.jpg'
-              text='Tira me a las arañas'
-              label='JC Gaal'
-              path='/the-gallery/jcgaal-tira-me-a-las-aranas'
             />
           </ul>
           <ul className='cards__items'>
@@ -88,25 +53,12 @@ function Gallery() {
               path='/the-gallery/juanjo-drunkship-of-lanterns'
             />
             <GalleryItem
-              src='images/jcgaal/lo-res/05-Drunkship.jpg'
-              text='Drunkship of Lanterns'
-              label='JC Gaal'
-              path='/the-gallery/jcgaal-drunkship-of-lanterns'
-            />
-          </ul>
-          <ul className='cards__items'>
-            <GalleryItem
               src='images/jjclv/lo-res/06-Eriatarka.jpg'
               text='Eriatarka'
               label='JuanJo Calva'
               path='/the-gallery/juanjo-eriatarka'
             />
-            <GalleryItem
-              src='images/jcgaal/lo-res/06-Eriatarka.jpg'
-              text='Eriatarka'
-              label='JC Gaal'
-              path='/the-gallery/jcgaal-eriatarka'
-            />
+            
           </ul>
           <ul className='cards__items'>
             <GalleryItem
@@ -116,24 +68,10 @@ function Gallery() {
               path='/the-gallery/juanjo-cicatriz-esp'
             />
             <GalleryItem
-              src='images/jcgaal/lo-res/07-Cicatriz.jpg'
-              text='Cicatriz ESP'
-              label='JC Gaal'
-              path='/the-gallery/jcgaal-cicatriz-esp'
-            />
-          </ul>
-          <ul className='cards__items'>
-            <GalleryItem
               src='images/jjclv/lo-res/08-ThisApparatus.jpg'
               text='This Apparatus Must Be Unearthed'
               label='JuanJo Calva'
               path='/the-gallery/juanjo-this-apparatus-must-be-unearthed'
-            />
-            <GalleryItem
-              src='images/jcgaal/lo-res/08-ThisApparatus.jpg'
-              text='This Apparatus Must Be Unearthed'
-              label='JC Gaal'
-              path='/the-gallery/jcgaal-this-apparatus-must-be-unearthed'
             />
           </ul>
           <ul className='cards__items'>
@@ -144,18 +82,78 @@ function Gallery() {
               path='/the-gallery/juanjo-televators'
             />
             <GalleryItem
-              src='images/jcgaal/lo-res/09-Televators.jpg'
-              text='Televators'
-              label='JC Gaal'
-              path='/the-gallery/jcgaal-televators'
-            />
-          </ul>
-          <ul className='cards__items'>
-            <GalleryItem
               src='images/jjclv/lo-res/10-TakeTheVeil.jpg'
               text='Take the Veil Cerpin Taxt'
               label='JuanJo Calva'
               path='/the-gallery/juanjo-take-the-veil-cerpin-taxt'
+            />
+          </ul>
+        </div>
+        <div className='cards__wrapper'>
+          <h2 className='cards__creator'>by JC Gaal</h2>
+          <br/>
+          <ul className='cards__items'>
+            <GalleryItem
+              src='images/jcgaal/lo-res/01-Son.jpg'
+              text='Son et lumière'
+              label='JC Gaal'
+              path='/the-gallery/jcgaal-son-et-lumiere'
+            />
+            <GalleryItem
+              src='images/jcgaal/lo-res/02-Inertiatic.jpg'
+              text='Inertiatic ESP'
+              label='JC Gaal'
+              path='/the-gallery/jcgaal-intertiatic-esp'
+            />
+          </ul>
+          <ul className='cards__items'>
+            <GalleryItem
+              src='images/jcgaal/lo-res/03-Roulette.jpg'
+              text='Roulette Dares (The Haunt Of)'
+              label='JC Gaal'
+              path='/the-gallery/jcgaal-roulette-dares'
+            />
+            <GalleryItem
+              src='images/jcgaal/lo-res/04-TiraMe.jpg'
+              text='Tira me a las arañas'
+              label='JC Gaal'
+              path='/the-gallery/jcgaal-tira-me-a-las-aranas'
+            />
+          </ul>
+          <ul className='cards__items'>
+            <GalleryItem
+              src='images/jcgaal/lo-res/05-Drunkship.jpg'
+              text='Drunkship of Lanterns'
+              label='JC Gaal'
+              path='/the-gallery/jcgaal-drunkship-of-lanterns'
+            />
+            <GalleryItem
+              src='images/jcgaal/lo-res/06-Eriatarka.jpg'
+              text='Eriatarka'
+              label='JC Gaal'
+              path='/the-gallery/jcgaal-eriatarka'
+            />
+          </ul>
+          <ul className='cards__items'>
+            <GalleryItem
+              src='images/jcgaal/lo-res/07-Cicatriz.jpg'
+              text='Cicatriz ESP'
+              label='JC Gaal'
+              path='/the-gallery/jcgaal-cicatriz-esp'
+            />
+            <GalleryItem
+              src='images/jcgaal/lo-res/08-ThisApparatus.jpg'
+              text='This Apparatus Must Be Unearthed'
+              label='JC Gaal'
+              path='/the-gallery/jcgaal-this-apparatus-must-be-unearthed'
+            />
+          </ul>
+          <ul className='cards__items'>
+            <GalleryItem
+              src='images/jcgaal/lo-res/09-Televators.jpg'
+              text='Televators'
+              label='JC Gaal'
+              path='/the-gallery/jcgaal-televators'
             />
             <GalleryItem
               src='images/jcgaal/lo-res/10-TakeTheVeil.jpg'

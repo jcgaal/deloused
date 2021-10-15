@@ -11,6 +11,9 @@
 h1 {
   text-align: center;
 }
+.text-center {
+  text-align: center;
+}
 .cards__container {
   display: flex;
   flex-flow: column;
@@ -23,7 +26,7 @@ h1 {
 .cards__wrapper {
   position: relative;
   margin: 50px 0 45px;
-  width: 95%;
+  width: 100%;
 }
 
 .cards__items {
@@ -34,6 +37,8 @@ h1 {
   line-height: 1.75rem;
   color: #ef394d;
   font-size: 1.8em;
+  text-align: center;
+  width: 100%;
 }
 
 .cards__item {
@@ -140,8 +145,12 @@ h1 {
   }
   .cards__wrapper {
     width: 100%;
+    margin: 0px 0 45px;
   }
   h2 {
     font-size: 2em;
+  }
+  .cards__creator {
+    display: none;
   }
 }

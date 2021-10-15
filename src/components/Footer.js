@@ -31,30 +31,32 @@ function Footer() {
             <a href="http://nfnto.xyz" target="_blank" rel="noreferrer">nfnto</a> 2021 - ∞
           </small>
           <div className='social-icons'>
-            <Link
+            <a href='https://www.instagram.com/delousedxyz/'
               className='social-icon-link instagram'
-              to='https://www.instagram.com/delousedxyz/'
               target='_blank'
+              rel="noreferrer"
               aria-label='Instagram'
             >
               <i className='fab fa-instagram' />
-            </Link>
-            <Link
+            </a>
+            <a
               className='social-icon-link youtube'
-              to='https://www.youtube.com/channel/UCrxRfPdf0eKIeSUOmfE3c-w'
+              href='https://www.youtube.com/channel/UCrxRfPdf0eKIeSUOmfE3c-w'
               target='_blank'
+              rel="noreferrer"
               aria-label='Youtube'
             >
               <i className='fab fa-youtube' />
-            </Link>
-            <Link
+            </a>
+            <a
               className='social-icon-link twitter'
-              to='https://twitter.com/delousedxyz'
+              href='https://twitter.com/delousedxyz'
               target='_blank'
+              rel="noreferrer"
               aria-label='Twitter'
             >
               <i className='fab fa-twitter' />
-            </Link>
+            </a>
           </div>
         </div>
       </section>
