@@ -16,7 +16,7 @@ and that is what we did...
 
 Visit the gallery at [deloused.xyz](http://www.deloused.xyz/)
 
-Get a NFT at [opensea](https://opensea.io/deloused)
+Get a NFT at [opensea](https://opensea.io/collection/deloused)
 
 Or Get a poster on our [etsy](https://www.etsy.com/shop/JJCLV)
 
