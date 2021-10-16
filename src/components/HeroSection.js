@@ -81,7 +81,7 @@ function HeroSection() {
 			<div className='text-wrap hover-displayable'>
 				<h2>the story</h2>
 				<h3 className='highlights'>In 2003, the debut album by our favorite band dropped</h3>
-				<p>This album shares the tale of a trouble poet who through an injection of rat poison attempted to leave this world, only to be woken up in another realm much diferent from this reality: The Comatorium.</p>
+				<p>This album shares the tale of a troubled poet who through an injection of rat poison attempted to leave this world, only to be woken up in another realm much diferent from this reality: The Comatorium.</p>
 				<p>This new paradigm presents itself to the protagonist as a series of complex and epic challenges that demand prowess beyond his human form and limitations making him transcend his own anthropoid form.</p>
 				<p>With profound allegorical descriptions and a masterful use of sophisticated rhetorical devices, the authors of the story leave to the listeners the task of filling in the gaps and helping construct the narrative based with their very own interpretation informed by their experience in life.</p>
 				<h3 className='highlights'>and that is what we did...</h3>

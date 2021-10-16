@@ -14,7 +14,7 @@ and that is what we did...
 
 ### `the gallery`
 
-Visit the gallery at [deloused.xyz](http://www.deloused.xyz/)
+Visit the gallery at [deloused.xyz](https://www.deloused.xyz/)
 
 Get a NFT at [opensea](https://opensea.io/collection/deloused)
 
