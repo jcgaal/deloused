@@ -426,7 +426,7 @@ h2 {
   .text-wrap > p {
     margin-bottom:  15px;
     font-size: 1.2rem;
-    text-align: justify;
+    text-align: left;
     line-height: 25px;
   }
   .deloused-cover {

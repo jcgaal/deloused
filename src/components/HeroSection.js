@@ -73,8 +73,8 @@ function HeroSection() {
 				<h2>the story</h2>
 				<h3 className='highlights'>In 2003, the debut album by our favorite band dropped</h3>
 				<p>This album, through music and prose, narrates the tale of a troubled artist, who through an injection of rat poison attempted to leave this world at once, only to be awakened in another realm much diferent from this reality: The Comatorium.</p>
-				<p>This new paradigm presents itself to the protagonist as a of complex saga paved with challenges, which will demand prowess beyond his human form and limitations, thus making him transcend his own anthropoid form.</p>
-				<p>With profound allegorical descriptions and a masterful use of sophisticated rhetorical devices, the authors of the story leave to the listeners the task of filling in the gaps and helping construct the narrative informed by their life experiences, as dull or as exciting as those may be.</p>
+				<p>This new paradigm presents itself to the protagonist as a of complex saga paved with challenges, which will demand prowess beyond his human form and limitations, thus making him transcend his own anthropoid body.</p>
+				<p>With profound allegorical descriptions and a masterful use of sophisticated rhetorical devices, the authors of the story present the listeners with the monumental task of filling in the gaps and helping construct the narrative informed by their life experiences, as dull or as exciting as those may be.</p>
 				<h3 className='highlights'>and that is what we did...</h3>
 			</div>
 			<img className='deloused-cover' src='/images/de-loused-art.jpg' alt="De-Loused in the Comatorium" />
