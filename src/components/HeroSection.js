@@ -36,7 +36,7 @@ function HeroSection() {
 		<div id='pieces' className='the-pieces'>
 			<h2>what are the pieces?</h2>
 			<div className='text-wrap'>
-				<p>The pieces are 2 sets of 10 different illustrations corresponding to each song of ^the album, creatd by <a href="https://www.instagram.com/jjclv/" target="_blank" rel="noreferrer">JuanJo Calva</a> & <a href="https://twitter.com/jcgaal_" target="_blank" rel="noreferrer">JC Gaal</a> respectively. There are a total of 20 pieces. The aim was to stay loyal to *the story, however subjectivity rules all beings, and thus will be reflected in the art. The same album listened during the same time period and imagined by two different artists.</p>
+				<p>The pieces are 2 unique Major Arana-like series of illustrations corresponding to each song of ^the album. The Light Major Arcana creatd by <a href="https://www.instagram.com/jjclv/" target="_blank" rel="noreferrer">JuanJo Calva</a> & The Dark Major Arcana produced by <a href="https://twitter.com/jcgaal_" target="_blank" rel="noreferrer">JC Gaal</a>. There is a total of 20 pieces that unravel the tragic story of a human striving to escape this reality.</p>
 			</div>
 			<div className="showcase-container">
 				<div className="main-showcase">
@@ -68,22 +68,13 @@ function HeroSection() {
 			</div>
 		</div>
 
-		<div id='project' className='the-project'>
-			<h2>the project</h2>
-			<div className='text-wrap'>
-				<p>We, Juanjo Calva & JC Gaal, met during college through our primary interest: music. By sharing our musical experiences and varied taste, we began a friendship but also an interesting creative work symbiosis. This allowed us to explore art through experiments in creativity as well as in mediums. We would think of something and we'd just materialize it... it felt like wizardry. Juanjo excelled in illustration while JC dabbled in design as well as writing. However, Juanjo moved to Barcelona 6 years ago, and with the distance this type of interactions became less frequent, until they were nonexistent.</p>
-				<p>Recently, and due to the pandemic we got in touch and dissected every song from one of our favorite albums to an excruciating detail, constantly discussing the story, the music, and the artists’ intent continuously. We analyzed every sound, every paragraph and took notes to grasp the extent of the work, and to try to capture the elusive intent of the creators. Once achieved, we illustrated each one of the album’s songs with our very own visual interpretations and through our preferred mediums. This allowed us to approach this project with honesty, respect and openness, as well as a profound excitement (so freaking fun!).</p>
-				<p>This is how this project came about, as a process of bonding after years of distance. All of this through music, which brought us together in the first place.</p>
-			</div>
-		</div>
-
 		<div id='story' className='the-story '>
 			<div className='text-wrap hover-displayable'>
 				<h2>the story</h2>
 				<h3 className='highlights'>In 2003, the debut album by our favorite band dropped</h3>
-				<p>This album shares the tale of a troubled poet who through an injection of rat poison attempted to leave this world, only to be woken up in another realm much diferent from this reality: The Comatorium.</p>
-				<p>This new paradigm presents itself to the protagonist as a series of complex and epic challenges that demand prowess beyond his human form and limitations making him transcend his own anthropoid form.</p>
-				<p>With profound allegorical descriptions and a masterful use of sophisticated rhetorical devices, the authors of the story leave to the listeners the task of filling in the gaps and helping construct the narrative based with their very own interpretation informed by their experience in life.</p>
+				<p>This album, through music and prose, narrates the tale of a troubled artist, who through an injection of rat poison attempted to leave this world at once, only to be awakened in another realm much diferent from this reality: The Comatorium.</p>
+				<p>This new paradigm presents itself to the protagonist as a of complex saga paved with challenges, which will demand prowess beyond his human form and limitations, thus making him transcend his own anthropoid form.</p>
+				<p>With profound allegorical descriptions and a masterful use of sophisticated rhetorical devices, the authors of the story leave to the listeners the task of filling in the gaps and helping construct the narrative informed by their life experiences, as dull or as exciting as those may be.</p>
 				<h3 className='highlights'>and that is what we did...</h3>
 			</div>
 			<img className='deloused-cover' src='/images/de-loused-art.jpg' alt="De-Loused in the Comatorium" />
@@ -96,6 +87,15 @@ function HeroSection() {
 						view on <i className="fa fa-etsy" aria-hidden="true"></i>tsy
 					</a>
 				</div>
+			</div>
+		</div>
+
+
+		<div id='project' className='the-project'>
+			<h2>the project</h2>
+			<div className='text-wrap'>
+				<p>Meet the wretched souls behind this project: Juanjo Calva & JC Gaal, who met during college through their primary interest: music. By sharing their musical experiences and varied taste, a friendship and a fruitful creative work symbiosis began deveolping. This helped them explore art through experiments across several mediums with confidence. <a href="https://www.behance.net/jjclv" target="_blank" rel="noreferrer">Juanjo excelled in illustration</a> while <a href="https://www.behance.net/jcgaal" target="_blank" rel="noreferrer">JC dabbled in design</a> as well as <a href="https://blog.jcgaal.com" target="_blank" rel="noreferrer">writing</a>. However, destiny set the roads apart, with Juanjo moving to Barcelona more than half a decade ago, and with the distance te productivity subsided, until now.</p>
+				<p>Every sound, every paragraph and every bit of the story was analyzed and dissected in a sysiphean endeavor, only to faintly grasp merely a fraction of the depth of the original work, and to try to translate it into plasticity. Through evanescent yet honest understanding, JC & JuanJo illustrated each one of the album’s songs through their own prism and produced a Dark & Light Major Arcanas for the journey of Cerpin Taxt... a journey that might resemble everyone's at some point.</p>
 			</div>
 		</div>
 	</>
