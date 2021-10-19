@@ -11,10 +11,10 @@ function HeroSection() {
 			<video src='/videos/deloused-video.mp4' autoPlay loop muted />
 			<DelousedLogo className='main-logo'/>
 			<h1>Sound Becomes Light</h1>
-			<p>10 songs uniquely illustrated</p>
-			<p>by 2 friends, while decoding</p>
-			<p>their favorite album</p>
-			<p>20 pieces in total</p>
+			<p>2 Major Arcanas</p>
+			<p>1 Light & 1 Dark</p>
+			<p>20 Unique Works</p>
+			<p>Music Becomes Visual</p>
 			<div className='hero-btns'>
 				<a href='https://opensea.io/collection/deloused' target='blank' rel="noreferrer" className="btns btn--outline btn--large">
 					VIEW ON OPENSEA
