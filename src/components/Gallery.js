@@ -17,10 +17,10 @@ function Gallery() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <li className='item-image'>
-              <h2 className='cards__creator'> by JuanJo Calva</h2>
+              <h2 className='cards__creator'><span class="white">Light Major Arcana</span> by <a href="https://www.instagram.com/jjclv/" target="_blank" rel="noreferrer">JuanJo Calva</a></h2>
             </li>
             <li className='item-image'>
-              <h2 className='cards__creator'>by JC Gaal</h2>
+              <h2 className='cards__creator'><span class="white">Dark Major Arcana</span> by <a href="https://www.instagram.com/jcgaal/" target="_blank" rel="noreferrer">JC Gaal</a></h2>
             </li>
           </ul>
           <br/>

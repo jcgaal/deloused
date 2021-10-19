@@ -41,6 +41,10 @@ h1 {
   width: 100%;
 }
 
+.white {
+  color: #fff !important;
+}
+
 .cards__item {
   display: flex;
   flex: 1;
