@@ -36,7 +36,7 @@ function HeroSection() {
 		<div id='pieces' className='the-pieces'>
 			<h2>what are the pieces?</h2>
 			<div className='text-wrap'>
-				<p>The pieces are 2 unique Major Arana-like series of illustrations corresponding to each song of ^the album. The Light Major Arcana creatd by <a href="https://www.instagram.com/jjclv/" target="_blank" rel="noreferrer">JuanJo Calva</a> & The Dark Major Arcana produced by <a href="https://twitter.com/jcgaal_" target="_blank" rel="noreferrer">JC Gaal</a>. There is a total of 20 pieces that unravel the tragic story of a human striving to escape this reality.</p>
+				<p>The pieces are 2 unique Major Arcana-like series of illustrations corresponding to each song of ^the album. The Light Major Arcana creatd by <a href="https://www.instagram.com/jjclv/" target="_blank" rel="noreferrer">JuanJo Calva</a> & The Dark Major Arcana produced by <a href="https://twitter.com/jcgaal_" target="_blank" rel="noreferrer">JC Gaal</a>. There is a total of 20 pieces that unravel the tragic story of a human striving to escape this reality.</p>
 			</div>
 			<div className="showcase-container">
 				<div className="main-showcase">
